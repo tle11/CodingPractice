@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers>
+<Customer>
+<customerCode>C001</customerCode>
+<type>G</type>
+<personCode>231</personCode>
+<customerName>University of Nebraska-Lincoln</customerName>
+<address>Address [street=259 Avery Hall, city=Lincoln, state=NE, zipCode=68588-0115, country=USA]</address>
+</Customer>
+<Customer>
+<customerCode>C002</customerCode>
+<type>C</type>
+<personCode>944c</personCode>
+<customerName>Stark Industries</customerName>
+<address>Address [street=184 Marvel Way, city=New York, state=NY, zipCode=10453, country=USA]</address>
+</Customer>
+<Customer>
+<customerCode>C003</customerCode>
+<type>C</type>
+<personCode>306a</personCode>
+<customerName>Venture Industries</customerName>
+<address>Address [street=123 Venture Way, city=Culver City, state=CA, zipCode=90230, country=USA]</address>
+</Customer>
+<Customer>
+<customerCode>C004</customerCode>
+<type>G</type>
+<personCode>321f</personCode>
+<customerName>National Security Administration</customerName>
+<address>Address [street=9800 Savage Rd, city=Fort Meade, state=MD, zipCode=20755, country=USA]</address>
+</Customer>
+<Customer>
+<customerCode>C005</customerCode>
+<type>C</type>
+<personCode>bbchar</personCode>
+<customerName>Vandelay Industries</customerName>
+<address>Address [street=1060 West Addison, city=Chicago, state=IL, zipCode=60601, country=USA]</address>
+</Customer>
+<Customer>
+<customerCode>C006</customerCode>
+<type>C</type>
+<personCode> 321dr</personCode>
+<customerName>Mr. Smith's #1 Supply Co. Inc.</customerName>
+<address>Address [street=456 West 7th St., city=Omaha, state=NE, zipCode=68500, country=USA]</address>
+</Customer>
+</Customers>

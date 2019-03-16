@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+<Product>
+<productCode>b29e</productCode>
+<type>E</type>
+<productName>Cinco MIDI Organizer</productName>
+<pricePerUnit>2500.0</pricePerUnit>
+</Product>
+<Product>
+<productCode>ff23</productCode>
+<type>E</type>
+<productName>Cinco-Fone</productName>
+<pricePerUnit>124.99</pricePerUnit>
+</Product>
+<Product>
+<productCode>fp12</productCode>
+<type>E</type>
+<productName>Internette Discs</productName>
+<pricePerUnit>14.99</pricePerUnit>
+</Product>
+<Product>
+<productCode>1239</productCode>
+<type>E</type>
+<productName>Cinco Video Cube Playback System</productName>
+<pricePerUnit>5000.0</pricePerUnit>
+</Product>
+<Product>
+<productCode>90fa</productCode>
+<type>L</type>
+<productName>Cinco Long Distance Service</productName>
+<serviceFee>2000.0</serviceFee>
+<annuaLicenseFee>12000.0</annuaLicenseFee>
+</Product>
+<Product>
+<productCode>3289</productCode>
+<type>C</type>
+<productName>Cinco-Fone Training</productName>
+<consultantPersonCode>aef1</consultantPersonCode>
+<hourlyFee>25.0</hourlyFee>
+</Product>
+<Product>
+<productCode>782g</productCode>
+<type>C</type>
+<productName>Server System Setup</productName>
+<consultantPersonCode>321nd</consultantPersonCode>
+<hourlyFee>150.0</hourlyFee>
+</Product>
+<Product>
+<productCode>3294</productCode>
+<type>L</type>
+<productName>Cloud SQL Hosting</productName>
+<serviceFee>0.0</serviceFee>
+<annuaLicenseFee>35000.0</annuaLicenseFee>
+</Product>
+<Product>
+<productCode>3295</productCode>
+<type>L</type>
+<productName>Domain registration</productName>
+<serviceFee>350.0</serviceFee>
+<annuaLicenseFee>1200.0</annuaLicenseFee>
+</Product>
+</Products>
